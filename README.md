@@ -1,5 +1,5 @@
 # Restaurant Food Order Theme
-This is a Restaurant Theme Website Template, designed using HTML, CSS, PHP.
+This is a Restaurant Theme Website Template, designed using HTML, CSS, and PHP.
 
 ## Technologies Used
 1. HTML5
